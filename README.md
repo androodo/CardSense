@@ -1,6 +1,4 @@
 # CardSense
-*CS180 Group Project*
-
 **Manage user's budgets and maximize credit card rewards by tracking spending**
 
 Our [presentation slides](./resource/CardSense-Slides.pdf) will help you understand this project in under 5 minutes!
