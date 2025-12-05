@@ -1,8 +1,6 @@
 # CardSense
 **Manage user's budgets and maximize credit card rewards by tracking spending**
 
-Our [presentation slides](./resource/CardSense-Slides.pdf) will help you understand this project in under 5 minutes!
-
 **Author**
 
 [![Static Badge](https://img.shields.io/badge/Andrew%20Do-path?style=for-the-badge&color=%2390EE90)](https://github.com/androodo)
